@@ -1,5 +1,17 @@
 {
     "name":"calc",
     "version":"0.0.1",
-    "main":"two"
+    "main":"two",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/tvps-sreekar/calc"
+},
+"keywords": [
+    "calc","two"
+],
+"dependencies": {},
+"engines": {
+    "node":"*"
+}
+
 }
